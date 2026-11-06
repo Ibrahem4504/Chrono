@@ -1,0 +1,10 @@
+{
+  "alarms": [],
+  "use_24h": true,
+  "world_zones": [
+    "UTC",
+    "Europe/London",
+    "America/New_York",
+    "Asia/Tokyo"
+  ]
+}
